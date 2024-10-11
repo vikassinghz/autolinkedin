@@ -4,7 +4,7 @@ This project is a Chrome extension built with the [wxt.dev](https://wxt.dev) fra
 
 ## Demo
 
-[![Watch the demo](https://raw.githubusercontent.com/yourusername/repository-name/main/demo-thumbnail.png)](https://drive.google.com/file/d/1aRflfe9VzaR9bZo2A6ORJTdppBkYJ_H1/view?usp=drive_link)
+[![Watch the demo](https://github.com/vikassinghz/autolinkedin/blob/main/linkedIn%20connector.png)](https://drive.google.com/file/d/1aRflfe9VzaR9bZo2A6ORJTdppBkYJ_H1/view?usp=drive_link)
 
 Click the thumbnail above to watch the demo video.
 
